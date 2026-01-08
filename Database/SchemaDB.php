@@ -2,10 +2,10 @@
 
 class SchemaDB
 {
-    const  SERVER_NAME = "https://ultrahostghana.com/";
-    const  USERNAME = "ipublis3_scandiwebapp_root";
-    const  PASSWORD = "k4obnSWWd@wu";
-    const  DB_NAME = "ipublis3_scandiwebapp";
+    const  SERVER_NAME = "";
+    const  USERNAME = "";
+    const  PASSWORD = "";
+    const  DB_NAME = "";
     protected $conn;
 
     public function databaseConnection()
